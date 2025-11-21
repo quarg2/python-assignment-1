@@ -1,6 +1,6 @@
 # python-assignment-1
 
-PDL assignment 1
+PDS assignment 1
 
 # Programs
 - `modeOfTransport.py`: Tell user suitable mode of transport when a distance is given
