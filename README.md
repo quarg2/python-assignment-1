@@ -11,3 +11,4 @@ PDL assignment 1
 - `employee.py`: Get and display employee name and salary
 - `bill.py`: Given a list of items, display number of items, total price, and total discount
 - `OddSquares.py`: From a list of numbers, create a dictionary whose keys are odd numbers and values are squares of said numbers
+- `testmath.py`: Certain tests for `math_utils`
